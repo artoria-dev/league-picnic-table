@@ -34,6 +34,9 @@ Please use this repository as you wish.
 
 Also, for any inquiries, questions, suggestions, chit-chat, threats (hopefully not), or whatnot, feel free to find me one Discord by my tag *letmecook7*.
 
+This project does not aim the be any meaningful at all. I just want to show, how nice that *could* be if done correctly (which I probably didn't do lol).
+If any Riot emplyoee stubles across this by any chance, please send me the link to the original article.
+
 ## Preconsiderations
 
 The basic idea sounds rather simple:
